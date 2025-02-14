@@ -1,2 +1,3 @@
 # imagefilter
-Image filtering with SIMD in C++
+
+Basic Image Filter Library in C++. Goal is to use SIMD to speed up computation. 
