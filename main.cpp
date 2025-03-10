@@ -2,8 +2,6 @@
 #include "stb_image.h"
 #include <iostream>
 
-
-
 int main() {
     int width, height, channels;
     unsigned char* img = stbi_load("image.png", &width, &height, &channels, 0);
